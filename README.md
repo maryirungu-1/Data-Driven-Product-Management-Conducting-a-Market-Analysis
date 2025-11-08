@@ -2,7 +2,7 @@ As a  product manager for a fitness studio and are interested in understanding t
 
 ### The Data
 
-You are provided with a number of CSV files in the "Files/data" folder, which offer international and national-level data on Google Trends keyword searches related to fitness and related products. 
+The CSV files in the "data" folder, offer international and national-level data on Google Trends, keyword searches related to fitness and related products.
 
 ### workout.csv
 
