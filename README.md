@@ -35,3 +35,9 @@ The CSV files in the "data" folder, offer international and national-level data 
 | `'home_workout_2018_2023'` | Index representing the popularity of the keyword 'home workout' during the 5 year period. |
 | `'gym_workout_2018_2023'` | Index representing the popularity of the keyword 'gym workout' during the 5 year period.  |
 | `'home_gym_2018_2023'` | Index representing the popularity of the keyword 'home gym' during the 5 year period. |
+
+##  <u> The folllowing are the objectives of the project <u>
+- When was the global search for 'workout' at its peak? Save the year of peak interest as a string named year_str in the format "yyyy".
+- Of the keywords available, what was the most popular during the covid pandemic, and what is the most popular now? 
+- What country has the highest interest for workouts among the following: United States, Australia, or Japan? Save your answer as top_country.
+- Interested in expanding  virtual home workouts offering to either the Philippines or Malaysia. Which of the two countries has the highest interest in home workouts? 
