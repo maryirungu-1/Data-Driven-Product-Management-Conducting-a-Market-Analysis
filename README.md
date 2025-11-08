@@ -1,3 +1,6 @@
+<p align = "center" >
+  <img src="https://github.com/maryirungu-1/Data-Driven-Product-Management-Conducting-a-Market-Analysis/blob/main/product_analysis_plots/gym_pic.jpg" width="600" height="400"/>
+
 As a  product manager for a fitness studio and are interested in understanding the current demand for digital fitness classes,a market analysis in Python can play a key role  to gauge demand and identify potential areas for growth of digital products and services.
 
 ### The Data
